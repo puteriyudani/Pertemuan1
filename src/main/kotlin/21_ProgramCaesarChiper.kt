@@ -18,6 +18,6 @@ fun main() {
         message += char
     }
 
-    //tampilkan
+    //tampilkan program
     println("Encrypted message: $message")
 }
